@@ -1,0 +1,17 @@
+{
+    "Servers" : {
+        "392472181805940736" : {
+            "Config" : {
+                "Cookie CD" : 5,
+                "Steal CD" : 5
+            },
+            "Players" : {
+                "213395126116941826" : {
+                    "Cookie CD" : 2603,
+                    "Cookies" : 6,
+                    "Steal CD" : 2607
+                }
+            }
+        }
+    }
+}
